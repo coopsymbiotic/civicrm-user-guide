@@ -7,3 +7,4 @@ Note: This repository contains _source files_ for the CiviCRM user guide. These 
 This guide grows through contributions by community members. [Here](https://docs.civicrm.org/user/en/latest/the-civicrm-community/contributing-to-this-manual/) is the information on how to contribute.    
 
 
+This is a test
